@@ -1,0 +1,33 @@
+The following changes can be done to make the page moare attractive:
+
+1.The height of the cover photo should be increased by minimum 100px as now it is apperaing to have some negative margin when 
+
+  compared to width.
+
+#empty state
+2.In all the states the left portion should be in middle ie.group 149 should have some decreased left margin and group 148 should 
+
+  should have some left margin so that the atg logo should be in horizontal middle of grp 148.
+
+3.Left part should have some background color similar to group 172 ( you may follow section )
+
+4.The location marker should have same left margin as of description and "followers following" count.
+
+
+#Desktop3
+
+5.In the posts there should be preview of only one line or some extra margin in posts having less than two lines in order to maintaine 
+
+  the symmetry of the section.
+
+6.The text "you may follow " can be placed in horizontal middle of the section.
+
+7.The image of the user can be in vertical middle of the indivisual post.
+
+
+#Desktop2
+8.The name of the user and the type of post(Article,Event etc) can be in at same height from top of indivisual post.
+
+9.The page can have a navbar in which in "search atg" section can be moved with some options of logout and user settings at the right.
+
+10.The options for "you may follow" can be more so that user gets know more about the available groups everytime.

@@ -1,0 +1,35 @@
+The following may be the functionality bugs in  www.atg.party :
+
+1.In the "Create" section while selecting file for cover photo of a Article or Qrious or Event selection of a non image format
+  
+  file is possible whereas it is not possible in selecting image of company in Job.
+
+2.In the "You may follow" section once user follow a group, user cannot unfollow it by pressing the same button againg it turns
+  
+  to checked button and then is unresponsive.
+
+3.In the "Edit profile" section on clicking above the profile image on cover photo a selection window appears where user can 
+ 
+  select any image but after clicking ok it dissapears without any change.
+
+4.Phone number can be changed any number of times from "profile settings" as well as "privacy and security settings" without asking for any
+
+  profile password or otp.
+
+5.Whenever user name is changed the cover photo changes automatically, also username change does not require any password.
+
+6.In "password settings" the view button in corresponding to "deactivate or delete account" option is non responsive.
+
+7.The like button in "My posts" section in "profile" is non responsive.
+
+8.On adding a group to our followers it is added in our interests and not in following.
+
+9.If user try to send any link in message,then on clicking link user is routed to the linnk in atg domain and not in world wide web.
+
+10.In the "My groups" section user is not able to leave the group from the button it joined the group in 
+
+   "Groups you may be interesetd in" section.
+
+11.In "Manage active job" section table view we cannot see the publish option for saved job drafts but it is available in
+
+   card view of the same section.
